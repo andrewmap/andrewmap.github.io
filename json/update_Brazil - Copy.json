@@ -1,0 +1,70 @@
+{"Funds": [{
+    "AUM (Opening)":[{"STK LB": "379,415","STK Inst": "84,819","": "NULL","Total (R$)": "464,234"}],
+    "Long Exp":[{"STK LB": "95.5%","STK Inst": "98.5%","": "NULL","Total (R$)": "NULL"}],
+    "Short Exp":[{"STK LB": "-14.6%","STK Inst": "0.0%","": "NULL","Total (R$)": "NULL"}],
+    "Hedges":[{"STK LB": "-1.3%","STK Inst": "0.0%","": "NULL","Total (R$)": "NULL"}],
+    "Net Exposure":[{"STK LB": "79.6%","STK Inst": "98.5%","": "NULL","Total (R$)": "NULL"}],
+    "Gross Exposure":[{"STK LB": "111.4%","STK Inst": "98.5%","": "NULL","Total (R$)": "NULL"}],
+    "Long Equities":[{"STK LB": "284 ","STK Inst": "329 ","": "NULL","Total (R$)": "NULL"}],
+    "Short Equities":[{"STK LB": "(35)","STK Inst": "0 ","": "NULL","Total (R$)": "NULL"}],
+    "Hedges":[{"STK LB": "(3)","STK Inst": "0 ","": "NULL","Total (R$)": "NULL"}],
+    "FX":[{"STK LB": "(14)","STK Inst": "NULL","": "NULL","Total (R$)": "NULL"}],
+    "Trade":[{"STK LB": "0 ","STK Inst": "0 ","": "NULL","Total (R$)": "NULL"}],
+    "Daily Perf. F (in bps)":[{"STK LB": "232 ","STK Inst": "329 ","": "NULL","Total (R$)": "NULL"}],
+    "Index.":[{"STK LB": "IBOV","STK Inst": "BRL","": "NULL","Total (R$)": "NULL"}],
+    "Daily Perf. I (in bps)":[{"STK LB": "248 ","STK Inst": "(79)","": "NULL","Total (R$)": "NULL"}],
+    "Price":[{"STK LB": "101,037","STK Inst": "5.47","": "NULL","Total (R$)": "NULL"}],
+    "Month to Date F (in bps)":[{"STK LB": "144 ","STK Inst": "193 ","": "NULL","Total (R$)": "NULL"}],
+    "Index":[{"STK LB": "IBOV","STK Inst": "BRL","": "NULL","Total (R$)": "NULL"}],
+    "Month to Date I (in bps)":[{"STK LB": "-82 ","STK Inst": "489 ","": "NULL","Total (R$)": "NULL"}]
+    }],
+    "Top 15 Performance (in bps)": [{
+    "MGLU3":[{" Last Price ": "89.50"," STK LB ": "48"," STK Inst ": "60","": "NULL"," % Stock Chg ": "9.6%"}],
+    "B3SA3":[{" Last Price ": "61.80"," STK LB ": "37"," STK Inst ": "50","": "NULL"," % Stock Chg ": "6.4%"}],
+    "BPAC11":[{" Last Price ": "85.71"," STK LB ": "28"," STK Inst ": "35","": "NULL"," % Stock Chg ": "8.3%"}],
+    "BRDT3":[{" Last Price ": "21.50"," STK LB ": "21"," STK Inst ": "23","": "NULL"," % Stock Chg ": "4.6%"}],
+    "ENGI11":[{" Last Price ": "45.10"," STK LB ": "18"," STK Inst ": "21","": "NULL"," % Stock Chg ": "3.4%"}],
+    "EQTL3":[{" Last Price ": "23.96"," STK LB ": "14"," STK Inst ": "16","": "NULL"," % Stock Chg ": "2.3%"}],
+    "RENT3":[{" Last Price ": "49.60"," STK LB ": "13"," STK Inst ": "15","": "NULL"," % Stock Chg ": "3.9%"}],
+    "LIGT3":[{" Last Price ": "15.84"," STK LB ": "13"," STK Inst ": "15","": "NULL"," % Stock Chg ": "4.2%"}],
+    "TOTS3":[{" Last Price ": "28.00"," STK LB ": "11"," STK Inst ": "13","": "NULL"," % Stock Chg ": "3.7%"}],
+    "ENEV3":[{" Last Price ": "48.37"," STK LB ": "11"," STK Inst ": "13","": "NULL"," % Stock Chg ": "3.5%"}]
+    }],
+    "Bottom 15 Performance (in bps)": [{
+    "USD":[{" Last Price ": "5.47"," STK LB ": "-14"," STK Inst ": "-7","": "NULL"," % Stock Chg ": "-0.8%"}],
+    "Short Basket":[{" Last Price ": "0.00"," STK LB ": "-12"," STK Inst ": "0","": "NULL"," % Stock Chg ": "0.0%"}],
+    "IBOVE 10/14/20 P97000 Index":[{" Last Price ": "2,721.96"," STK LB ": "-9"," STK Inst ": "0","": "NULL"," % Stock Chg ": "-25.5%"}],
+    "PCAR3":[{" Last Price ": "65.31"," STK LB ": "-3"," STK Inst ": "0","": "NULL"," % Stock Chg ": "2.2%"}],
+    "BBDC4":[{" Last Price ": "20.83"," STK LB ": "-2"," STK Inst ": "0","": "NULL"," % Stock Chg ": "1.1%"}],
+    "RENT3  10/19/2020 C50.68 Equity":[{" Last Price ": "2.63"," STK LB ": "-2"," STK Inst ": "0","": "NULL"," % Stock Chg ": "36.7%"}],
+    "BPAC11  10/19/2020 C96.50 Equity":[{" Last Price ": "2.30"," STK LB ": "-2"," STK Inst ": "0","": "NULL"," % Stock Chg ": "116.9%"}],
+    "MOVI3":[{" Last Price ": "16.94"," STK LB ": "-1"," STK Inst ": "0","": "NULL"," % Stock Chg ": "4.8%"}],
+    "CMIG3":[{" Last Price ": "10.64"," STK LB ": "-1"," STK Inst ": "0","": "NULL"," % Stock Chg ": "4.0%"}],
+    "B3SA3  10/19/2020 C69.94 Equity":[{" Last Price ": "0.96"," STK LB ": "-1"," STK Inst ": "0","": "NULL"," % Stock Chg ": "112.1%"}],
+    "CAML3":[{" Last Price ": "12.45"," STK LB ": "-1"," STK Inst ": "0","": "NULL"," % Stock Chg ": "3.6%"}],
+    "COGN3":[{" Last Price ": "6.96"," STK LB ": "-1"," STK Inst ": "0","": "NULL"," % Stock Chg ": "1.2%"}],
+    "CPLE6":[{" Last Price ": "61.35"," STK LB ": "-1"," STK Inst ": "0","": "NULL"," % Stock Chg ": "2.1%"}],
+    "CRFB3":[{" Last Price ": "20.07"," STK LB ": "1"," STK Inst ": "0","": "NULL"," % Stock Chg ": "1.9%"}],
+    "LINX3":[{" Last Price ": "35.75"," STK LB ": "2"," STK Inst ": "1","": "NULL"," % Stock Chg ": "0.9%"}]
+    }],
+    "Pair Trades": [{
+    "ITUB4 x bbdc4":[{"Bps": "-1.2","%Stock Chg": "-0.6%","Ratio": "1.164","": "NULL","% to Gain": "11.2%"}],
+    "BRDT3 x ugpa3":[{"Bps": "1.2","%Stock Chg": "1.6%","Ratio": "1.143","": "NULL","% to Gain": "9.3%"}],
+    "CRFB3 x PCAR3":[{"Bps": "0.1","%Stock Chg": "-0.3%","Ratio": "0.307","": "NULL","% to Gain": "-2.1%"}]
+    }],
+    "Commodities": [{
+    "TIOA Comdty":[{"Price": "122.8","%Stock Chg": "0.23%","": "NULL","": "NULL","": "NULL"}],
+    "IOECAU62 Index":[{"Price": "121.5","%Stock Chg": "2.10%","": "NULL","": "NULL","": "NULL"}],
+    "CL1 Comdty":[{"Price": "42.5","%Stock Chg": "-0.17%","": "NULL","": "NULL","": "NULL"}],
+    "CO1 Comdty":[{"Price": "45.0","%Stock Chg": "-0.29%","": "NULL","": "NULL","": "NULL"}],
+    "NG1 Comdty":[{"Price": "2.4","%Stock Chg": "-0.17%","": "NULL","": "NULL","": "NULL"}],
+    "HG1 Comdty":[{"Price": "297.1","%Stock Chg": "1.28%","": "NULL","": "NULL","": "NULL"}],
+    "GC1 Comdty":[{"Price": "1998.8","%Stock Chg": "0.92%","": "NULL","": "NULL","": "NULL"}],
+    "SB1 comdty":[{"Price": "12.9","%Stock Chg": "0.84%","": "NULL","": "NULL","": "NULL"}],
+    "C 1 Comdty":[{"Price": "327.0","%Stock Chg": "1.46%","": "NULL","": "NULL","": "NULL"}],
+    "S 1 Comdty":[{"Price": "911.5","%Stock Chg": "1.06%","": "NULL","": "NULL","": "NULL"}],
+    "W 1 Comdty":[{"Price": "508.0","%Stock Chg": "1.95%","": "NULL","": "NULL","": "NULL"}],
+    "SSYWTBBE Index":[{"Price": "18.0","%Stock Chg": "NULL","": "NULL","": "NULL","": "NULL"}]
+    }]
+    }
+    
